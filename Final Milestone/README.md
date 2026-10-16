@@ -13,7 +13,7 @@ Repository contents
 
 - `Milestone 2.pkt` — Cisco Packet Tracer project file.
 - `Technical_Documentation.docx` — technical implementation report.
-- `Evidence_Audit_and_Remaining_Tests.docx` — audit of the existing 12 screenshots and the remaining proof needed.
+- `Evidence_Audit.docx` — audit of the existing 12 screenshots and the remaining proof needed.
 
 Verified configuration evidence
 
